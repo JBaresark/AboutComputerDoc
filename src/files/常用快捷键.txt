@@ -1,0 +1,57 @@
+Alt+Insert 生成代码(如get,set方法,构造函数等) 或者右键（Generate）
+
+CTRL+ALT+L 格式化代码
+CTRL+ALT+I 自动缩进
+Ctrl+Alt+O 自动删除未使用的import
+CTRL+ALT+T 把选中的代码放在 TRY{} IF{} ELSE{} 里
+
+Ctrl+F12 浮动显示当前文件的结构
+CTRL+E 最近更改的代码
+Ctrl+Y  删除一行
+ctrl+d  快速将上一行复制下来
+
+psvm  main 快速生成main
+sout  soutv 快速生成System.out.print
+
+I itar for循环
+ifn inn if
+
+ctrl + alt + s 设置
+
+complier配置
+-Djps.track.ap.dependencies=false
+
+/**
+ * @className:${NAME}
+ * @author：吉如木图
+ * @date:${DATE} ${TIME}
+ * @description:TODO
+ */
+
+ 
+ /**
+ * @interfaceName:${NAME}
+ * @author：吉如木图
+ * @date:${DATE} ${TIME}
+ * @description:TODO
+ */
+ 
+ 
+ /**
+ * @enum:${NAME}
+ * @author：吉如木图
+ * @date:${DATE} ${TIME}
+ * @description:TODO
+ */
+ 
+ 
+/**
+ * @author 吉如木图
+ * @description TODO
+ * @date $date$ $time$
+ * @param $param$
+ * @return $return$ 
+**/
+
+methodParameters()
+methodReturnType()
